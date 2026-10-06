@@ -1,0 +1,17 @@
+composition,structure,method,kmesh,NELECT,NKPTS,actual_NBANDS,VBM_eV,CBM_eV,band_gap_eV,gap_type,VBM_kpoint,CBM_kpoint,completed,source_directory
+Cs2GeSnCl2Br4,parent,PBE,6x6x6,176,112,160,1.761630000,2.455812000,0.694182000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/01_pbe_static_666
+Cs2GeSnCl2Br4,parent,PBE+SOC,6x6x6,176,216,272,1.776785000,2.282567000,0.505782000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/02_pbe_soc_666
+Cs2GeSnCl2Br4,parent,HSE06,3x3x3,176,14,160,1.474995000,2.643810000,1.168815000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/03_hse06_333
+Cs2GeSnCl2Br4,parent,HSE06+SOC,3x3x3,176,27,264,1.490455000,2.463856000,0.973401000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/04_hse06_soc_333
+Cs2GeSnCl2Br4,final_P1,PBE,6x6x6,352,112,216,1.002609000,2.490665000,1.488056000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/01_electronic/01_pbe_static_666
+Cs2GeSnCl2Br4,final_P1,PBE+SOC,6x6x6,352,216,400,1.015339000,2.427129000,1.411790000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/01_electronic/09_pbe_soc_gap_666_ac9l
+Cs2GeSnCl2Br4,final_P1,HSE06,2x2x2,352,8,324,0.611876000,2.728161000,2.116285000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/01_electronic/03_hse06_static_222
+Cs2GeSnCl2Br4,final_P1,HSE06+SOC,2x2x2,352,8,400,0.624665000,2.661811000,2.037146000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/01_electronic/11_hse06_soc_gap_222_ac9l
+Cs2GeSnCl4Br2,parent,PBE,6x6x6,176,112,168,1.927217000,2.641067000,0.713850000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/03_pbe_static
+Cs2GeSnCl4Br2,parent,PBE+SOC,6x6x6,176,216,264,1.935654000,2.537823000,0.602169000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/06_pbe_soc/01_fullBZ_666
+Cs2GeSnCl4Br2,parent,HSE06,3x3x3,176,14,168,1.633345000,2.839007000,1.205662000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/07_hse06/01_scf_333
+Cs2GeSnCl4Br2,parent,HSE06+SOC,3x3x3,176,27,264,1.642105000,2.738935000,1.096830000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/08_hse06_soc/01_static_333
+Cs2GeSnCl4Br2,final_P1,PBE,6x6x6,176,112,160,0.984932000,2.605382000,1.620450000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/19_finalP1_electronic/01_FINAL_postISIF3_canonical/01_pbe_static_666
+Cs2GeSnCl4Br2,final_P1,PBE+SOC,6x6x6,176,216,264,0.991858000,2.573738000,1.581880000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/19_finalP1_electronic/01_FINAL_postISIF3_canonical/02_pbe_soc_static_666
+Cs2GeSnCl4Br2,final_P1,HSE06,3x3x3,176,14,160,0.574173000,2.845432000,2.271259000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/19_finalP1_electronic/01_FINAL_postISIF3_canonical/04_hse06_static_333
+Cs2GeSnCl4Br2,final_P1,HSE06+SOC,3x3x3,176,27,264,0.581480000,2.814470000,2.232990000,direct,"(0.0, 0.0, 0.0)","(0.0, 0.0, 0.0)",True,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/19_finalP1_electronic/01_FINAL_postISIF3_canonical/05_hse06_soc_static_333

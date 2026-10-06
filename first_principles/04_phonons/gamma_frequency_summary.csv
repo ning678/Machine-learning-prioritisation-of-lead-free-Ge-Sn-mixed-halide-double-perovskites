@@ -1,0 +1,10 @@
+composition,stage,natoms,largest_imaginary_THz,largest_imaginary_cm-1,residual_imaginary_modes_note
+Cs2GeSnCl2Br4,parent_gamma,40,3.401681,113.467880,significant_soft_modes
+Cs2GeSnCl2Br4,round1_gamma,40,1.405834,46.893579,significant_soft_modes
+Cs2GeSnCl2Br4,round2_gamma,40,0.745194,24.857010,soft_modes_remain
+Cs2GeSnCl2Br4,final_gamma,40,0.096697,3.225467,three_very_small_residual_modes
+Cs2GeSnCl4Br2,parent_gamma,20,3.157339,105.317482,significant_soft_modes
+Cs2GeSnCl4Br2,round1_gamma,20,2.923960,97.532802,significant_soft_modes
+Cs2GeSnCl4Br2,round2_gamma,20,1.001384,33.402564,soft_modes_remain
+Cs2GeSnCl4Br2,post_ISIF3_gamma,20,1.322188,44.103447,soft_modes_remain
+Cs2GeSnCl4Br2,final_gamma,20,0.068633,2.289351,three_very_small_residual_modes

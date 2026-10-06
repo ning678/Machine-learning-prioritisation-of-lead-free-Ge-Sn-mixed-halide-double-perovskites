@@ -1,0 +1,104 @@
+
+==========================================================================================
+Cs2GeSnCl2Br4_parent
+source = /home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/06_optics_666/vasprun.xml
+source_sha256 = 73a4ea4cbfd501a8506e95234ab2164b2a99322f43527ca8d926eb6d587736ce
+dielectric_block = density-density
+points_full = 3000
+points_0_6eV = 304
+E_min = 0.0000000000
+E_max = 59.2298000000
+strictly_increasing = True
+finite = True
+eps1_avg_E0 = 6.9114666667
+eps2_avg_E0 = 0.0000000000
+n_E0 = 2.6289668440
+k_E0 = 0.0000000000
+alpha_E0_cm-1 = 0.0000000000
+R_E0 = 0.2014923161
+
+HISTORICAL FULL CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+
+HISTORICAL 0-6 eV CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+new_full = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl2Br4_parent_optical_full.csv
+new_0_6 = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl2Br4_parent_optical_0_6eV.csv
+
+==========================================================================================
+Cs2GeSnCl2Br4_P1
+source = /home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/02_optical/03_pbe_optical_555/vasprun.xml
+source_sha256 = 4a7186d98f248a847cf93bb3e9787225fdc23a38598db0a2e61df966152759a7
+dielectric_block = density-density
+points_full = 3000
+points_0_6eV = 315
+E_min = 0.0000000000
+E_max = 57.1872000000
+strictly_increasing = True
+finite = True
+eps1_avg_E0 = 4.7897000000
+eps2_avg_E0 = 0.0000000000
+n_E0 = 2.1885383250
+k_E0 = 0.0000000000
+alpha_E0_cm-1 = 0.0000000000
+R_E0 = 0.1389450559
+
+HISTORICAL FULL CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+
+HISTORICAL 0-6 eV CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+new_full = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl2Br4_P1_optical_full.csv
+new_0_6 = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl2Br4_P1_optical_0_6eV.csv
+
+==========================================================================================
+Cs2GeSnCl4Br2_parent
+source = /home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/09_optical/01_pbe_optical_888/vasprun.xml
+source_sha256 = e7df5a9c56661269034138f56ac01d89d14af4a20fabd928abb96a8880f01a8a
+dielectric_block = density-density
+points_full = 3000
+points_0_6eV = 301
+E_min = 0.0000000000
+E_max = 59.9778000000
+strictly_increasing = True
+finite = True
+eps1_avg_E0 = 6.1543666667
+eps2_avg_E0 = 0.0000000000
+n_E0 = 2.4807996023
+k_E0 = 0.0000000000
+alpha_E0_cm-1 = 0.0000000000
+R_E0 = 0.1809816473
+
+HISTORICAL FULL CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+
+HISTORICAL 0-6 eV CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+new_full = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl4Br2_parent_optical_full.csv
+new_0_6 = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl4Br2_parent_optical_0_6eV.csv
+
+==========================================================================================
+Cs2GeSnCl4Br2_P1
+source = /home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/19_finalP1_electronic/01_FINAL_postISIF3_canonical/08_pbe_optical_666/vasprun.xml
+source_sha256 = cf186a5356ef9835923ef9116baafc1c101c8ed37246c5fa3b1651009c3013d8
+dielectric_block = density-density
+points_full = 3000
+points_0_6eV = 307
+E_min = 0.0000000000
+E_max = 58.6198000000
+strictly_increasing = True
+finite = True
+eps1_avg_E0 = 4.4569333333
+eps2_avg_E0 = 0.0000000000
+n_E0 = 2.1111450290
+k_E0 = 0.0000000000
+alpha_E0_cm-1 = 0.0000000000
+R_E0 = 0.1275560265
+
+HISTORICAL FULL CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+
+HISTORICAL 0-6 eV CSV HEADER:
+['Energy_eV', 'epsilon1_x', 'epsilon1_y', 'epsilon1_z', 'epsilon1_avg', 'epsilon2_x', 'epsilon2_y', 'epsilon2_z', 'epsilon2_avg', 'n_avg', 'k_avg', 'alpha_cm^-1', 'R_avg']
+new_full = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl4Br2_P1_optical_full.csv
+new_0_6 = /home/qnxu/Ms/Fig7_optical_data/JMCA_final/Cs2GeSnCl4Br2_P1_optical_0_6eV.csv

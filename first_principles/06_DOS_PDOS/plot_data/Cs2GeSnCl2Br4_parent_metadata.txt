@@ -1,0 +1,11 @@
+name = Cs2GeSnCl2Br4_parent
+source = /home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/05_dos_999
+natoms = 20
+formula_units = 2
+NEDOS = 3000
+
+DOSCAR_Efermi_eV = 1.76096254
+SCF_VBM_reference_eV = 1.76165800
+
+energy_reference_for_plot = E - E_VBM
+DOS_normalization = states/eV/formula_unit
