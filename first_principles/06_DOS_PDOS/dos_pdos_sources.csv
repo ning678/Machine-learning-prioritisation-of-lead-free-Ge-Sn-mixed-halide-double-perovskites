@@ -1,5 +1,0 @@
-panel,composition,structure,natoms,Z,kmesh,NEDOS,ENCUT_eV,LORBIT,Efermi_DOSCAR_eV,VBM_reference_eV,DOS_normalization
-Fig6a,Cs2GeSnCl2Br4,parent,20,2,9x9x9,3000,500,11,1.76096254,1.76165800,states/eV/formula_unit
-Fig6b,Cs2GeSnCl2Br4,P1,40,4,9x9x9,3000,500,11,1.00216274,1.00260900,states/eV/formula_unit
-Fig6c,Cs2GeSnCl4Br2,parent,20,2,8x8x8,5000,500,11,1.92657070,1.92720200,states/eV/formula_unit
-Fig6d,Cs2GeSnCl4Br2,P1,20,2,9x9x9,3000,500,11,0.98468830,0.98493300,states/eV/formula_unit

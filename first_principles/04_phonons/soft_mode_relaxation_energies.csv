@@ -1,7 +1,0 @@
-composition,round,plus_TOTEN_eV,minus_TOTEN_eV,structure_used_for_next_gamma,handoff_evidence
-Cs2GeSnCl2Br4,round1,-132.46693276,-132.46693272,round1_gamma_input,not_byte_identical_to_either_saved_CONTCAR
-Cs2GeSnCl2Br4,round2,-132.51711545,-132.51716796,minus,byte_identical
-Cs2GeSnCl2Br4,round3,-132.66630759,-132.66221794,plus,byte_identical
-Cs2GeSnCl4Br2,round1,-68.38351834,-68.38351787,plus,byte_identical
-Cs2GeSnCl4Br2,round2,-68.42194744,-68.42194745,minus,byte_identical
-Cs2GeSnCl4Br2,post_ISIF3,-68.59894017,-68.59900439,minus,byte_identical

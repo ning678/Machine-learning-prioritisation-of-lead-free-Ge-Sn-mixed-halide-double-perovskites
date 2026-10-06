@@ -1,6 +1,0 @@
-element,reference_phase,natoms,paw_dataset,total_TOTEN_eV,total_sigma0_eV,energy_used_eV_per_atom,energy_convention,ENCUT_eV,ISMEAR,SIGMA_eV,NKPTS_irreducible
-Cs,bcc,2,Cs_sv,-1.70538550,-1.70443176,-0.8526927500,TOTEN,500,1,0.2,868
-Ge,diamond,8,Ge_d,-36.98478799,-36.98463811,-4.6230984988,TOTEN,500,0,0.05,260
-Sn,beta-Sn,4,Sn_d,-15.86556521,-15.86575889,-3.9663913025,TOTEN,500,1,0.2,1156
-Cl,Cl2_molecule,2,Cl,-3.59793465,-3.59793465,-1.7989673250,TOTEN,500,0,0.05,1
-Br,Br2_molecule,2,Br,-3.01358395,-3.01358395,-1.5067919750,TOTEN,500,0,0.05,1
