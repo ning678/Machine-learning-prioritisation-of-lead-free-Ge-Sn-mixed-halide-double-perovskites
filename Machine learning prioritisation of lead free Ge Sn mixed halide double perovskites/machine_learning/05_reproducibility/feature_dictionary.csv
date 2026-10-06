@@ -1,0 +1,85 @@
+task,feature_name,physical_meaning,unit,deployed
+stability,A_HOMO_plus,Mean A-site HOMO level,eV,True
+stability,A_HOMO_minus,A-site HOMO half-difference,eV,False
+stability,A_IE_plus,Mean A-site ionisation energy,eV,True
+stability,A_IE_minus,A-site ionisation-energy half-difference,eV,False
+stability,A_LUMO_plus,Mean A-site LUMO level,eV,True
+stability,A_LUMO_minus,A-site LUMO half-difference,eV,False
+stability,A_X_plus,Mean A-site Pauling electronegativity,dimensionless,False
+stability,A_X_minus,A-site electronegativity half-difference,dimensionless,False
+stability,A_Z_radii_plus,Mean A-site Zunger radius,angstrom,True
+stability,A_Z_radii_minus,A-site Zunger-radius half-difference,angstrom,False
+stability,A_e_affin_plus,Mean A-site electron affinity,eV,True
+stability,A_e_affin_minus,A-site electron-affinity half-difference,eV,False
+stability,B_HOMO_plus,Mean B/B' HOMO level,eV,True
+stability,B_HOMO_minus,B/B' HOMO half-difference,eV,True
+stability,B_IE_plus,Mean B/B' ionisation energy,eV,True
+stability,B_IE_minus,B/B' ionisation-energy half-difference,eV,True
+stability,B_LUMO_plus,Mean B/B' LUMO level,eV,True
+stability,B_LUMO_minus,B/B' LUMO half-difference,eV,True
+stability,B_X_plus,Mean B/B' Pauling electronegativity,dimensionless,True
+stability,B_X_minus,B/B' electronegativity half-difference,dimensionless,True
+stability,B_Z_radii_plus,Mean B/B' Zunger radius,angstrom,True
+stability,B_Z_radii_minus,B/B' Zunger-radius half-difference,angstrom,True
+stability,B_e_affin_plus,Mean B/B' electron affinity,eV,True
+stability,B_e_affin_minus,B/B' electron-affinity half-difference,eV,True
+stability,tau,Goldschmidt tolerance factor,dimensionless,True
+stability,mu,Octahedral factor,dimensionless,True
+stability,mu_A_bar,A-site size-mismatch factor,dimensionless,False
+stability,mu_B_bar,B/B' size-mismatch factor,dimensionless,True
+direct,A1_OS,A1 oxidation state,dimensionless,False
+direct,A2_OS,A2 oxidation state,dimensionless,False
+direct,B1_OS,B1 oxidation state,dimensionless,False
+direct,B2_OS,B2 oxidation state,dimensionless,False
+direct,X_OS,X-site oxidation state,dimensionless,False
+direct,r_A,Mean A-site ionic radius,angstrom,False
+direct,r_B1,B1 ionic radius,angstrom,True
+direct,r_B2,B2 ionic radius,angstrom,True
+direct,r_X,X-site ionic radius,angstrom,False
+direct,r_B_avg,Mean B/B' ionic radius,angstrom,True
+direct,delta_r_B,B/B' ionic-radius difference,angstrom,True
+direct,r_A_plus_r_X,Sum of mean A-site and X radii,angstrom,False
+direct,r_Bavg_plus_r_X,Sum of mean B-site and X radii,angstrom,True
+direct,tolerance_factor_t,Goldschmidt tolerance factor,dimensionless,False
+direct,octahedral_factor_mu,Octahedral factor,dimensionless,True
+direct,chi_A,Mean A-site Pauling electronegativity,dimensionless,False
+direct,chi_B1,B1 Pauling electronegativity,dimensionless,True
+direct,chi_B2,B2 Pauling electronegativity,dimensionless,True
+direct,chi_X,X-site Pauling electronegativity,dimensionless,False
+direct,delta_chi_B,B/B' electronegativity difference,dimensionless,True
+direct,chi_B_avg,Mean B/B' Pauling electronegativity,dimensionless,True
+direct,delta_chi_AX,A-X electronegativity difference,dimensionless,True
+direct,delta_chi_BX,Mean B-site-X electronegativity difference,dimensionless,True
+direct,Z_A,Mean A-site atomic number,dimensionless,False
+direct,Z_B1,B1 atomic number,dimensionless,True
+direct,Z_B2,B2 atomic number,dimensionless,True
+direct,Z_X,X-site atomic number,dimensionless,False
+direct,SOC_proxy,Statistical spin-orbit-coupling proxy,dimensionless,True
+gap,A_HOMO_plus,Mean A-site HOMO level,eV,True
+gap,A_HOMO_minus,A-site HOMO half-difference,eV,False
+gap,A_IE_plus,Mean A-site ionisation energy,eV,True
+gap,A_IE_minus,A-site ionisation-energy half-difference,eV,False
+gap,A_LUMO_plus,Mean A-site LUMO level,eV,False
+gap,A_LUMO_minus,A-site LUMO half-difference,eV,False
+gap,A_X_plus,Mean A-site Pauling electronegativity,dimensionless,True
+gap,A_X_minus,A-site electronegativity half-difference,dimensionless,False
+gap,A_Z_radii_plus,Mean A-site Zunger radius,angstrom,True
+gap,A_Z_radii_minus,A-site Zunger-radius half-difference,angstrom,False
+gap,A_e_affin_plus,Mean A-site electron affinity,eV,True
+gap,A_e_affin_minus,A-site electron-affinity half-difference,eV,False
+gap,B_HOMO_plus,Mean B/B' HOMO level,eV,True
+gap,B_HOMO_minus,B/B' HOMO half-difference,eV,True
+gap,B_IE_plus,Mean B/B' ionisation energy,eV,True
+gap,B_IE_minus,B/B' ionisation-energy half-difference,eV,True
+gap,B_LUMO_plus,Mean B/B' LUMO level,eV,True
+gap,B_LUMO_minus,B/B' LUMO half-difference,eV,True
+gap,B_X_plus,Mean B/B' Pauling electronegativity,dimensionless,True
+gap,B_X_minus,B/B' electronegativity half-difference,dimensionless,True
+gap,B_Z_radii_plus,Mean B/B' Zunger radius,angstrom,True
+gap,B_Z_radii_minus,B/B' Zunger-radius half-difference,angstrom,True
+gap,B_e_affin_plus,Mean B/B' electron affinity,eV,True
+gap,B_e_affin_minus,B/B' electron-affinity half-difference,eV,True
+gap,tau,Goldschmidt tolerance factor,dimensionless,True
+gap,mu,Octahedral factor,dimensionless,True
+gap,mu_A_bar,A-site size-mismatch factor,dimensionless,False
+gap,mu_B_bar,B/B' size-mismatch factor,dimensionless,True

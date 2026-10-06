@@ -1,0 +1,11 @@
+name = Cs2GeSnCl2Br4_P1
+source = /home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/01_electronic/05_pbe_dos_999
+natoms = 40
+formula_units = 4
+NEDOS = 3000
+
+DOSCAR_Efermi_eV = 1.00216274
+SCF_VBM_reference_eV = 1.00260900
+
+energy_reference_for_plot = E - E_VBM
+DOS_normalization = states/eV/formula_unit

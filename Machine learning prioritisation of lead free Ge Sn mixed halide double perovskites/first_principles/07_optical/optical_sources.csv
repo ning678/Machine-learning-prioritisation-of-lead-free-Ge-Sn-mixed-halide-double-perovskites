@@ -1,0 +1,5 @@
+composition,structure,natoms,source_directory,kmesh_label,NBANDS,NEDOS,CSHIFT_eV,method
+Cs2GeSnCl2Br4,parent,20,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/04_C20_EQUIV_PARENT/06_optics_666,6x6x6,320,3000,0.10,PBE_nonSOC_LOPTICS
+Cs2GeSnCl2Br4,P1,40,/home/qnxu/Ms/Cs2GeSnCl2Br4/VASP/03_FINAL_P1/02_optical/03_pbe_optical_555,5x5x5,576,3000,0.10,PBE_nonSOC_LOPTICS
+Cs2GeSnCl4Br2,parent,20,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/09_optical/01_pbe_optical_888,8x8x8,320,3000,0.10,PBE_nonSOC_LOPTICS
+Cs2GeSnCl4Br2,P1,20,/home/qnxu/Ms/Cs2GeSnCl4Br2/VASP/19_finalP1_electronic/01_FINAL_postISIF3_canonical/08_pbe_optical_666,6x6x6,320,3000,0.10,PBE_nonSOC_LOPTICS

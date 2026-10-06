@@ -1,0 +1,3 @@
+composition,channel,products_energy_eV_per_fu,parent_energy_eV_per_fu,parent_offset_meV_per_atom,P1_energy_eV_per_fu,P1_offset_meV_per_atom
+Cs2GeSnCl2Br4,"(2/3) CsGeCl3 + (1/3) CsGeBr3 + CsSnBr3",-33.19618497,-33.07295371,12.323126,-33.16988880,2.629617
+Cs2GeSnCl4Br2,"CsGeCl3 + (1/3) CsSnCl3 + (2/3) CsSnBr3",-34.31840958,-34.16818744,15.022214,-34.29982759,1.858199

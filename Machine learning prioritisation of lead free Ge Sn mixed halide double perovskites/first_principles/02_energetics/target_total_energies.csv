@@ -1,0 +1,5 @@
+composition,structure,natoms,Z,total_energy_eV,energy_eV_per_fu,distortion_energy_meV_per_fu,ENCUT_eV,kmesh
+Cs2GeSnCl2Br4,parent,20,2,-66.14590742,-33.07295371,0.00000,500,6x6x6
+Cs2GeSnCl2Br4,P1,40,4,-132.67955520,-33.16988880,-96.93509,500,6x6x6
+Cs2GeSnCl4Br2,parent,20,2,-68.33637488,-34.16818744,0.00000,500,6x6x6
+Cs2GeSnCl4Br2,P1,20,2,-68.59965518,-34.29982759,-131.64015,500,6x6x6

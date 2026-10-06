@@ -1,0 +1,5 @@
+composition,structure,target_energy_eV_per_fu,reference_sum_eV_per_fu,formation_energy_eV_per_fu,formation_energy_eV_per_atom
+Cs2GeSnCl2Br4,parent,-33.07295371,-19.91997785,-13.15297586,-1.31529759
+Cs2GeSnCl2Br4,P1,-33.16988880,-19.91997785,-13.24991095,-1.32499109
+Cs2GeSnCl4Br2,parent,-34.16818744,-20.50432855,-13.66385889,-1.36638589
+Cs2GeSnCl4Br2,P1,-34.29982759,-20.50432855,-13.79549904,-1.37954990
