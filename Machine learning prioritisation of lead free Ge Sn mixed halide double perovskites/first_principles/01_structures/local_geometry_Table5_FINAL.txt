@@ -1,0 +1,28 @@
+== structures/Cs2GeSnCl2Br4_parent_POSCAR
+  V per f.u. 363.04 A^3
+  Ge-X all 2.657-2.812  short three 2.657-2.812  long three 2.812-2.812 A
+  Ge: off-centre 0.000 A  Delta_d 0.70e-3  sigma^2 0.0 deg^2
+  Sn-X all 2.807-2.951  short three 2.807-2.951  long three 2.951-2.951 A
+  Sn: off-centre 0.000 A  Delta_d 0.55e-3  sigma^2 0.0 deg^2
+  Ge-X-Sn 180.0-180.0 deg (n=24)
+== structures/Cs2GeSnCl2Br4_final_P1_POSCAR
+  V per f.u. 383.98 A^3
+  Ge-X all 2.398-3.196  short three 2.398-2.635  long three 3.142-3.196 A
+  Ge: off-centre 0.335 A  Delta_d 12.19e-3  sigma^2 16.1 deg^2
+  Sn-X all 2.583-3.290  short three 2.583-2.795  long three 3.237-3.290 A
+  Sn: off-centre 0.279 A  Delta_d 8.69e-3  sigma^2 11.5 deg^2
+  Ge-X-Sn 152.9-172.8 deg (n=24)
+== structures/Cs2GeSnCl4Br2_parent_POSCAR
+  V per f.u. 346.21 A^3
+  Ge-X all 2.667-2.811  short three 2.667-2.667  long three 2.667-2.811 A
+  Ge: off-centre 0.000 A  Delta_d 0.63e-3  sigma^2 0.0 deg^2
+  Sn-X all 2.814-2.951  short three 2.814-2.814  long three 2.814-2.951 A
+  Sn: off-centre 0.000 A  Delta_d 0.51e-3  sigma^2 0.0 deg^2
+  Ge-X-Sn 180.0-180.0 deg (n=12)
+== structures/Cs2GeSnCl4Br2_final_P1_POSCAR
+  V per f.u. 370.10 A^3
+  Ge-X all 2.400-3.248  short three 2.400-2.678  long three 3.092-3.248 A
+  Ge: off-centre 0.342 A  Delta_d 15.68e-3  sigma^2 13.0 deg^2
+  Sn-X all 2.575-3.319  short three 2.575-2.833  long three 3.189-3.319 A
+  Sn: off-centre 0.268 A  Delta_d 10.69e-3  sigma^2 6.7 deg^2
+  Ge-X-Sn 150.8-172.9 deg (n=12)
