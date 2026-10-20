@@ -1,6 +1,6 @@
-# JMCA machine-learning public data package
+# Machine-learning data and reproducibility package
 
-This directory contains the minimal public data needed to inspect the machine-learning results reported in the JMCA manuscript.
+This directory contains the minimal public data needed to inspect the machine-learning results reported in the associated manuscript.
 
 ## Contents
 
