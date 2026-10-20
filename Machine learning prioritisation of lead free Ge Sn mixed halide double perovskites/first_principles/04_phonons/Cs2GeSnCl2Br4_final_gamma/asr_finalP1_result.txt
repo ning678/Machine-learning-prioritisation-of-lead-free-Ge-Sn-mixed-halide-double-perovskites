@@ -1,0 +1,17 @@
+raw (as run)   n_imag =  3   max|w_im| = 0.0967 THz (3.23 cm-1)
+               six lowest |w| / THz, with translational weight:
+                  0.0628i   0.998
+                  0.0751i   0.994
+                  0.0967i   0.990
+                  0.3342    0.034
+                  0.3637    0.126
+                  0.4559    0.012
+ASR-corrected  n_imag =  3   max|w_im| = 0.0216 THz (0.72 cm-1)
+               six lowest |w| / THz, with translational weight:
+                  0.0000i   1.000
+                  0.0100i   1.000
+                  0.0216i   1.000
+                  0.3791    0.006
+                  0.4052    0.010
+                  0.5042    0.012
+summary        after ASR: acoustic max |w| = 0.72 cm-1, lowest optical = 0.3791 THz, imaginary optical modes = 0
