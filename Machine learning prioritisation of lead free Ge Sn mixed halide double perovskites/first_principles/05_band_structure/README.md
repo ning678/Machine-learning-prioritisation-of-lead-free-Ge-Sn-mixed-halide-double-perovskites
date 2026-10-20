@@ -42,7 +42,7 @@ Cs2GeSnCl4Br2 final P1:
 For the 40-atom Cs2GeSnCl2Br4 final-P1 structure, the canonical HSE06
 gap was taken from the 2x2x2 calculation (2.116285 eV). A 3x3x3
 calculation gives 2.106816 eV; the corresponding k-mesh comparison is
-archived in ../09_convergence/Cs2GeSnCl2Br4_final_HSE06_kmesh.csv.
+archived in ../08_convergence/Cs2GeSnCl2Br4_final_HSE06_kmesh.csv.
 
 ## Line-band calculations
 
